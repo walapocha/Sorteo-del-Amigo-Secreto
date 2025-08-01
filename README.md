@@ -23,9 +23,9 @@ Puedes abrir el proyecto en cualquier navegador moderno. También puedes instala
 
 ---
 
-## 🎬 Video explicativo del funcionamiento
+## 🎬  Video explicativo del funcionamiento pendiente
 
-[![Ver video explicativo](https://img.youtube.com/vi/VIDEO_ID/mqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
 
 ---
 
