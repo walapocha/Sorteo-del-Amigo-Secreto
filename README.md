@@ -2,9 +2,7 @@
 
 Este proyecto es una aplicación web interactiva que permite registrar participantes y realizar el sorteo aleatorio de un "Amigo Secreto".
 
-![Vista previa del proyecto](./assets/captura_app.png)
 
----
 
 ## ✨ Funcionalidades
 
